@@ -31,4 +31,11 @@
 - 直接点击install 17 packages。初次安装，需要更新大约十几个新包，大约要等半小时。  
 ![](https://github.com/ViTaSoyi/unity-installation/blob/master/images/%E5%AE%89%E8%A3%85%E5%AE%89%E5%8D%93.png)
 
+#### 配置Unity3d的Android运行环境  
+- 启动Unity3d,进入edit-Preferences-External Tools  
+- sdk选对应的android-sdk-windows文件夹所在位置；jdk选择jdk文件夹所在位置
+![]()  
 
+- 完成之后，新建场景，保存场景，将场景添加到scenes in build里面，然后切换平台为安卓Android平台
+
+- 
