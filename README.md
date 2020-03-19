@@ -38,4 +38,4 @@
 
 - 完成之后，新建场景，保存场景，将场景添加到scenes in build里面，然后切换平台为安卓Android平台
 
-- 
+- 点击Player settings修改Other Settings，自定义BundleIdentification里的package name，修改完成后，点击Build。
